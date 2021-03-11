@@ -3,6 +3,9 @@ Esse é um mini-projeto que fiz baseado em artigos e vídeos. Fiz para entender 
 
 A ideia do projeto é buscar o endereço através do CEP informado pelo usuário.
 
+<img src="https://github.com/jardelima/Consulta-CEP/blob/master/img/demo1.PNG" witdh="300" height="300"/>
+<img src="https://github.com/jardelima/Consulta-CEP/blob/master/img/demo2.PNG" witdh="300" height="300"/>
+
 ### :wrench: Ferramentas 
 - HTML
 - Bootstrap
